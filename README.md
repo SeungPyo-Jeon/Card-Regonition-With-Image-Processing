@@ -4,8 +4,7 @@
 \[ENG] A repository for "image processing" for the first semester of the third year  
 
 
-## Midterm Project
-Business card regonition project.  
+## Midterm Project - Business card regonition project.  
 ### 입력데이터
 ![Image](https://github.com/user-attachments/assets/e0501763-965e-4f7e-bd39-b8ddbdaeda00)
 ### 인식 후
